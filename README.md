@@ -1,4 +1,5 @@
-
+#Profit sharing 
+これは強化学習のprofit sharing のコードです
 ### ファイル説明
 - `profit_sharing.py`: Profit Sharingアルゴリズムのメインロジック。エージェントが環境と相互作用し、行動価値を更新する。
 - `environment.py`: エージェントが学習するためのシンプルな環境を定義。例えば、グリッドワールドなどの環境を用意。
